@@ -4,6 +4,10 @@ A production-grade Solana trading terminal built for speed. Routes swaps through
 
 # Solana Webhook Trader
 
+<img width="1036" height="1283" alt="image" src="https://github.com/user-attachments/assets/64d54829-2cac-4144-8db6-6043f6179c56" />
+
+
+
 A production-grade Solana trading terminal. Routes swaps through Jupiter (Jito / Nozomi / Legacy), executes TradingView webhook signals automatically, and runs a full paper trading simulation environment — all from a single dashboard with real-time balance tracking, a sleep monitor, and a persistent trade log.
 
 ---
